@@ -46,7 +46,6 @@ public class Main {
                     System.out.println(aus.doSurfing(aus.getCountryName()));
                 }
 
-
                 break;
             case 2:
                 System.out.println("Your choice is Dubai...Here are some informations about the country");
